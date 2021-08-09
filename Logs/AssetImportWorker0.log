@@ -145,3 +145,4 @@ Received Import Request.
   path: Assets/Scenes/Attic.unity
   artifactKey: Guid(94993bc423558f5418e9bc33147ef4a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Attic.unity using Guid(94993bc423558f5418e9bc33147ef4a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52496ab5f2c8f1829e6213d5f4abd155') in 0.012936 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
